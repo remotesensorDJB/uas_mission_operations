@@ -63,7 +63,7 @@ The *image acquisiton plan* that we design to capture imagery, will vary based o
 ---
 #### Misson Plan Design
 ##### Drone and Camera Type
-@size[0.6em](The sensor used will define ground sampling distance gsd&#41 of resultant imagery. The sensor's area, resolution, and lens focal length, all contribute to the calculated GSD at a given altitude.)
+@size[0.6em](The sensor used will define ground sampling distance '('gsd')' of resultant imagery. The sensor's area, resolution, and lens focal length, all contribute to the calculated GSD at a given altitude.)
 
 <iframe class="stretch" data-src="https://www.propelleraero.com/gsd-calculator/"></iframe>
 +++
