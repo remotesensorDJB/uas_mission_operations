@@ -63,7 +63,7 @@ The *image acquisiton plan* that we design to capture imagery, will vary based o
 ---
 #### Misson Plan Design
 ##### Drone and Camera Type
-The type of drone and sensor used will define the resolution (GSD) of resultant imagery. The sensor's field of view, lens focal length, and sensor resolution all contribute to the calculated GSD  at a given altitude.
+@css[font-size: 0.6em](The type of sensor used will define the resolution (GSD) of resultant imagery. The sensor's area, resolution, and lens focal length, all contribute to the calculated GSD at a given altitude.)
 
 <iframe class="stretch" data-src="https://www.propelleraero.com/gsd-calculator/"></iframe>
 +++
