@@ -16,7 +16,7 @@
 #### The Big Picture!
 What is our objective?...  
   
-@css[fragment](Capture *high quality imagery* of our *study area*, to suit the intended *application*, in a *safe, efficient, and professional* manner.)  
+@css[fragment](Capture **high quality imagery**) @css[fragment](of our **study area**,) @css[fragment](to suit the intended **application**,) @css[fragment](in a **safe, efficient, and professional** manner.)  
   
 @css[fragment](All decisions related to field operations should emanate from this simple objective!)
 +++
