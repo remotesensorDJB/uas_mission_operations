@@ -6,7 +6,7 @@
 @title[the plan] 
 #### the plan
 - The Big Picture: Guiding Principles
-- Study Area Reconnaisance: Know B4 U Go!
+- Study Area Reconnaissance: Know B4 U Go!
 - Designing the Mission Plan: Match the application
 - The Day Of: Situational Awareness 
 - Aeronautical Decision Making: Cool heads prevail
@@ -20,7 +20,17 @@ What is our objective?...
   
 @css[fragment](All decisions related to field operations should emanate from this simple objective!)
 +++
-
+title[Study Area Reconnaissance]
+#### Study Area Reconnaissance
+##### Know B4 U Go! 
+Our first task is to become familiar with the study area and its vicinity...  
+  
+@ul[squares]
+- Where is the site? 
+- How will we access it? @css[fragment](driving/walking/need permissions?)
+- What is the terrain? @css[fragment](steep slopes/tall trees/obstructions?)
+- Airspace considerations? @css[fragment](require ATC permission/nearby facilities?)
+- What type of data to collect? @css[fragment](aerial photos/3D Models/IR imagery?) 
 #### Finished
 
 
