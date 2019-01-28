@@ -36,6 +36,19 @@ Our first task is to become familiar with the study area and its vicinity...
 - Airspace considerations? @css[fragment](**require ATC permission/nearby facilities?**)
 - What type of data to collect? @css[fragment](**aerial photos/3D Models/IR imagery?**) 
 +++
+@title[Study Area Reconnaissance]
+#### Study Area Reconnaissance
+Our main tools will be exisitng maps and imagery of the area.  
+  
+- [Google Maps/Streetview](https://maps.google.com)
+- [Google Earth](https://earth.google.com)
+- [Skyvector](https://www.skyvector.com]
+- [Know B4 U Fly](http://knowbeforeyoufly.org/air-space-map/)
++++
+@title[Study Area Reconnaissance]
+#### An example
+<iframe data-src="http://centerforgis.maps.arcgis.com/apps/Embed/index.html?webmap=191fad03a33d4b73a2910a1a71af81aa&extent=-83.3562,38.1427,-83.342,38.1478&zoom=true&previewImage=false&scale=true&basemap_gallery=true&disable_scroll=true&theme=dark"></iframe>
+---
 #### Finished
 
 
