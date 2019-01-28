@@ -47,7 +47,7 @@ Our main tools will be exisitng maps and imagery of the area.
 +++
 @title[Study Area Reconnaissance]
 #### An example
-<iframe width="800" height="600" data-src="https://centerforgis.maps.arcgis.com/apps/Embed/index.html?webmap=191fad03a33d4b73a2910a1a71af81aa&extent=-83.3562,38.1427,-83.342,38.1478&zoom=true&previewImage=false&scale=true&basemap_gallery=true&disable_scroll=true&theme=dark"></iframe>
+<iframe width="800" height="600" data-src="https://centerforgis.maps.arcgis.com/apps/Embed/index.html?webmap=191fad03a33d4b73a2910a1a71af81aa&extent=-83.357,38.1425,-83.3427,38.1476&zoom=true&previewImage=false&scale=true&search=true&searchextent=true&details=true&basemap_gallery=true&disable_scroll=true&theme=dark""></iframe>
 ---
 #### Finished
 
