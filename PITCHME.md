@@ -8,7 +8,7 @@
 - The Big Picture: Guiding Principles
 - Study Area Reconnaissance: Know B4 U Go!
 - Designing the Mission Plan: Match the application
-- The Day Of: Situational Awareness 
+- The Day Of: Checking the boxes 
 - Aeronautical Decision Making: Cool heads prevail
 - If It All Goes South: Accident Procedures
 ---
