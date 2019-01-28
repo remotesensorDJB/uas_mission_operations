@@ -68,6 +68,7 @@ The magic of UAS imagery lies in Structure from Motion (SfM) image processing...
 - Same principle as stereoscopic imagery
  - **parallax**: displacement of an object caused by a change in the point of observation
 +++
+##### Image Parallax
 ![parallax](images/parallax.jpg)
 +++
 ##### SfM processing from overlapping images
