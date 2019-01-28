@@ -20,6 +20,7 @@ What is our objective?...
   
 @css[fragment](All decisions related to field operations should emanate from this simple objective!)
 +++
+
 #### Finished
 
 
