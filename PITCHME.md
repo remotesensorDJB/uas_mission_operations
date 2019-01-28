@@ -60,13 +60,56 @@ The *image acquisiton plan* that we design to capture imagery, will vary based o
 - Image product priorities (2D Maps vs 3D Maps/Point Clouds, Area vs Structure)
 - Area to be flown (shape and size)
 - Terrain considerations
----
+@ulend
++++
+##### A quick word on image processing...
+The magic of UAS imagery lies in Structure from Motion (SfM) image processing...
+- 3D reconstruction based on point matching between overlapping images
+- Same principle as stereoscopic imagery
+ - **parallax**: displacement of an object caused by a change in the point of observation
++++
+![parallax](images/parallax.jpg)
++++
+##### SfM processing from overlapping images
+![Pix4D 4](images/pix4d_4.JPG)
++++
+#### Misson Plan Design
+We will use [Pix 4D Capture](https://www.pix4d.com/product/pix4dcapture) for planning and executing flight plans, but there are many options available, including...  
+  
+@css[fragment](
+- [DroneDeploy](https://www.dronedeploy.com/product/mobile/)
+- [DJI Ground Station Pro](https://www.dji.com/ground-station-pro)
+- [UGCS](https://www.ugcs.com/)
+- [Precision Flight Pro](https://www.precisionhawk.com/precisionflight)
+)
++++
 #### Misson Plan Design
 ##### Drone and Camera Type
 @size[0.6em](The sensor used will define ground sampling distance/GSD of resultant imagery. The sensor's area, resolution, and lens focal length, all contribute to the calculated GSD at a given altitude.)
 
 <iframe class="stretch" data-src="https://www.propelleraero.com/gsd-calculator/"></iframe>
 +++
+#### Misson Plan Design
+##### Drone and Camera Type
+In our mission planning software...  
+  
+![Pix4D Drone Selection](images/pix4d_drone.png)
++++
+#### Misson Plan Design
+##### Image Types
+Different image priorities necessitate different flight parameters...  
+  
+@css[fragment](Simple 2D aerial photos/surface models demand a **nadir** camera angle with **75% frontal overlap**, and **60% side overlap**, in a simple grid pattern)  
+  
+@css[fragment](![flight Plan #1](images/flight_plan_1.png))
++++
+#### Misson Plan Design
+##### Image Types
+Whereas study areas with lots of vertical structure and complex geometry may require **oblique** camera angles, and a **double grid** flight pattern to obtain enough information for 3D reconstruction.  
+  
+@css[fragment](![Flight Plan #2](images/flight_plan_2.png)
++++
+
 
 #### Finished
 
