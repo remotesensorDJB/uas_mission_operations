@@ -110,7 +110,66 @@ Whereas study areas with lots of vertical structure and complex geometry may req
 +++  
 ![Flight Plan #2](images/flight_plan_2.png)
 +++
-
+#### Nadir vs. Oblique 
+![Nadir v Oblique](images/oblique_nadir_imagery.png)
++++
+#### Mission Plan Design
+Our flight planning software provides for a number of mission types to suit the application. 
+![Pix4D Missions](images/pix4d_missions.png)
++++
+#### Single Grid Flights
+Appropriate For...
+@ul[squares]
+- 2D Map Outputs (DSM, orthophoto)
+- Low relief (flat) areas 
+- Large study areas 
+@ulend
++++
+#### Single Grid Flights
+![Single Grid](images/single_grid.png)
++++
+#### Double Grid Flights
+@ul[squares]
+- 3D Map Outputs (point cloud, 3D mesh)
+- Sites with complex vertical structure (buildings, forest)
+- Smaller areas (double grid = 2x flight time)
+@ulend
++++
+#### Double Grid Flights
+![Double Grid](images/double_grid.PNG)
++++
+#### Polygon Grid Flights
+@ul[squares]
+- Irregularly shaped study areas
+- Flight area constraints (e.g. terrain or airpace)
+- Single grid pattern guidance applies
+@ulend
++++
+#### Polygon Grid Flights
+![Polygon Grid](images/polygon_grid.PNG)
++++
+#### Circular Flights
+@ul[squares]
+- Elliptical orbit around central target
+- Oblique imagery
+- 3D Model Outputs (point cloud, 3D mesh)
+- Modelling an isolated feature (e.g. statue, antenna, building)
+- Limited area
+@ulend
++++
+#### Circular Flights
+![Circular Flight](images/circular_grid.jpeg)
++++
+#### Free Flight
+@ul[squares]
+- for complex environments
+- UAS flown by hand
+- Camera triggered by intervalometer
+- Image captured every *x* seconds or *y* change in position
++++
+#### Free Flight
+![Free Flight](images/free_flight.png)
++++
 
 #### Finished
 
