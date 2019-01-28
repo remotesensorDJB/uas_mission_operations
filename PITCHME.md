@@ -42,7 +42,7 @@ Our main tools will be exisitng maps and imagery of the area.
   
 - [Google Maps/Streetview](https://maps.google.com)
 - [Google Earth](https://earth.google.com)
-- [Skyvector](https://www.skyvector.com])
+- [Skyvector](https://www.skyvector.com)
 - [Know B4 U Fly](http://knowbeforeyoufly.org/air-space-map/)
 +++
 @title[Study Area Reconnaissance]
