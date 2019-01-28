@@ -101,14 +101,14 @@ In our mission planning software...
 Different image priorities necessitate different flight parameters...  
   
 @css[fragment](Simple 2D aerial photos/surface models demand a **nadir** camera angle with **75% frontal overlap**, and **60% side overlap**, in a simple grid pattern)  
-  
-@css[fragment](![flight Plan #1](images/flight_plan_1.png))
++++  
+![flight Plan #1](images/flight_plan_1.png)
 +++
 #### Misson Plan Design
 ##### Image Types
 Whereas study areas with lots of vertical structure and complex geometry may require **oblique** camera angles, and a **double grid** flight pattern to obtain enough information for 3D reconstruction.  
-  
-@css[fragment](![Flight Plan #2](images/flight_plan_2.png)
++++  
+![Flight Plan #2](images/flight_plan_2.png)
 +++
 
 
