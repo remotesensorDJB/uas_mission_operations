@@ -20,17 +20,22 @@ What is our objective?...
   
 @css[fragment](All decisions related to field operations should emanate from this simple objective!)
 +++
-title[Study Area Reconnaissance]
+@title[Study Area Reconnaissance]
 #### Study Area Reconnaissance
 ##### Know B4 U Go! 
 Our first task is to become familiar with the study area and its vicinity...  
-  
+
+  @css[fragment](general reconnaisance can be guided by a few questions.)
++++
+@title[Study Area Reconnaissance]
+#### Study Area Reconnaissance   
 @ul[squares]
-- Where is the site? 
+- Where is the site? @css[fragment](lat/long/elev/area of interest?)
 - How will we access it? @css[fragment](driving/walking/need permissions?)
 - What is the terrain? @css[fragment](steep slopes/tall trees/obstructions?)
 - Airspace considerations? @css[fragment](require ATC permission/nearby facilities?)
 - What type of data to collect? @css[fragment](aerial photos/3D Models/IR imagery?) 
++++
 #### Finished
 
 
