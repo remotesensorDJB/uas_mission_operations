@@ -260,6 +260,52 @@ Pilots of all craft are addicted to **checklists!** Checklists are effective way
 [**UAS Safety Checklist**](https://air-vid.com/uav-safety-checklist)  
 <iframe class="stretch" data-src="https://air-vid.com/uav-safety-checklist/"></iframe> 
 +++
+#### The Day Of...
+##### Weather
+Mother nature has a way of disrupting even the best laid plans...CHECK THE WEATHER!  
+  
+@css[fragment](Use the NOAA/FAA resources like METARs, TAFs, AWOS, etc)  
+  
+@css[fragment](But also use good common sense!)
++++
+#### The Day Of...
+##### Weather
+What are some common weather related challenges?  
+  
+@css[fragment](Most commercially available UAS systems are not approved for flight in precipitation. Rain delay!)  
+  
+@css[fragment](Preference for overcast/diffuse light to reduce harsh shadows in our imagery...fly close to local noon!)  
+  
+@css[fragment](The biggest factor by far is...)@css[fragment](WIND!)
++++
+#### The Day Of...
+##### Weather
+**High wind speeds** have numerous negative impacts on UAV flight...  
+  
+@ul
+- Shorter battery life/reduced flight times
+- Groundspeed variability during missions
+- Challenging take offs/landings...especially in tight quarters. 
+- Increased risk of loss of equipment
++++
+#### The Day Of...
+##### Weather
+Many drones can fly in wind speeds ~20mph...  
+  
+@css[fragment](but the wind speeds at the surface are NOT the same as the winds aloft)  
+  
+@css[fragment](gusts can exceed the UAS's capacity to react)  
+  
+@css[fragment](and eddy currents around structures can create turbulent air)
++++
+![Wind](images/wind.jpg)
++++
+#### The Day Of...
+##### Weather
+**Know your winds before you go**
+https://www.uavforecast.com 
+<iframe class="stretch" data-src="https://www.uavforecast.com"></iframe>
+
 
 
 
