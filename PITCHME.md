@@ -316,7 +316,7 @@ Again, checklists will be our best tool for ensuring that we have everything nee
   
 @css[fragment](After landing...)@css[fragment](Post flight Checklist)
 +++
-[Lists](images/lists_small.jpg)
+![Lists](images/lists_small.jpg) 
 ---
 
 
