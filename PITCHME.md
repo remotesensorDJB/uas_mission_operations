@@ -77,12 +77,12 @@ The magic of UAS imagery lies in Structure from Motion (SfM) image processing...
 #### Misson Plan Design
 We will use [Pix 4D Capture](https://www.pix4d.com/product/pix4dcapture) for planning and executing flight plans, but there are many options available, including...  
   
-@css[fragment](
+
 - [DroneDeploy](https://www.dronedeploy.com/product/mobile/)
 - [DJI Ground Station Pro](https://www.dji.com/ground-station-pro)
 - [UGCS](https://www.ugcs.com/)
 - [Precision Flight Pro](https://www.precisionhawk.com/precisionflight)
-)
+
 +++
 #### Misson Plan Design
 ##### Drone and Camera Type
