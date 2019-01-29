@@ -217,7 +217,7 @@ SfM processing algorithms expect GSD to be consistent across a project.
   
 @css[fragment](Mission plans should account for this in one of three ways)
 +++
-**Fly higher**
+**Fly higher**  
 If the flight height at the high end is more than twice that at the low end, flying from a higher altitude can reduce this ratio. 
 
 @css[fragment](Example: Flight at 100ft AGL at the higher end, 200ft AGL at the lower end...2x ratio)  
@@ -226,12 +226,12 @@ If the flight height at the high end is more than twice that at the low end, fly
 +++
 ![Fly Higher](images/alt_same_altitude.jpg)
 +++
-**Terrain Following**
+**Terrain Following**  
 Use a software that accounts for terrain variation by using digital elevation (DEM) data. Flight altitude changes according to terrain.  
   
 ![Terrain Following](images/alt_dif_alt.jpg)
 +++
-**Stairstepped Flights**
+**Stairstepped Flights**  
 Fly multiple missions at staggered altitudes to ensure a consistent GSD.  
   
 ![Stairstepped Flights](images/alt_dif_flights.jpg)
