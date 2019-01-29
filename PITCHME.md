@@ -258,7 +258,7 @@ When the time comes to travel to the study area and acquire imagery, what should
 Pilots of all craft are addicted to **checklists!** Checklists are effective ways to make sure your operations are consistent, successful, and SAFE. There is a checklist for nearly everything in flying. Let's take a look at a field operations safety checklist...  
 +++
 [**UAS Safety Checklist**](https://air-vid.com/uav-safety-checklist)  
-<iframe data-src="https://air-vid.com/uav-safety-checklist/"></iframe> 
+<iframe class="stretch" data-src="https://air-vid.com/uav-safety-checklist/"></iframe> 
 +++
 
 
