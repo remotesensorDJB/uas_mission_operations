@@ -304,9 +304,9 @@ Many drones can fly in wind speeds ~20mph...
 ##### Weather
 **Know your winds before you go**
 https://www.uavforecast.com 
----
-<iframe class="stretch" data-src="https://www.uavforecast.com"></iframe>
 
+<iframe class="stretch" data-src="https://www.uavforecast.com"></iframe>
+---
 
 
 
