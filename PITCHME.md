@@ -345,7 +345,7 @@ When is global accuracy important?
   
 @ul[squares]
 - Comparing data with external datasets (GIS data, other imagery)
-- Comaparing data across time (for change detection from repeat imagery)
+- Comparing data across time (for change detection from repeat imagery)
 - Engineering/SurveyConstruction applications
 - When providing formal accuracy assessments as a deliverable
 @ulend
@@ -357,7 +357,7 @@ to establish GCPs in the field...
 - Place high visibility **targets** throughout study area
 - Distribute evenly across the area
 - Place them near important features
-- Place near high and low areaa
+- Place near high and low areas
 - Place 4-5 targets at minimum
 - Collect GPS coordinates at dead center of each target
 - Know the Coordinate System your GPS uses!
@@ -386,6 +386,9 @@ to establish GCPs in the field...
 ![GCP Distribution](images/gcp_distribution.jpg) 
 +++
 #### Ground Control Points
+![GCP Pix4D](images/gcp_pix4d.JPG)
++++
+#### Ground Control Points
 What accuracy can be expected by using GCPs?  
   
 @css[fragment](Depends on...)
@@ -398,15 +401,41 @@ What accuracy can be expected by using GCPs?
 @ulend
 +++
 #### Ground Control Points
-Relative Accuracy: Horiz. appx.. 2x the GSD, Vert. appx. 3x GSD  
+Relative Accuracy:   
+Horiz: ~2x the GSD, Vert: ~3x GSD    
   
-Absolute Accuracy: Horiz. appx. 1m, Vert appx. 3m  
+Absolute Accuracy:  
+Horiz: ~1m, Vert: ~3m  
   
 @css[fragment](With high quality control points...centimeter accuracy is acheivable.)
 +++
-
-
-#### Finished
+#### If It All Goes South
+##### Accident Procedures
+Despite our best efforts, problems do arise.  
+  
+@css[fragment](It is important to know how to respond to an incident)
+  
+@css[fragment](Establishing emergency procedures...hello, checklist?...can ease the stress of responding to an incident in progress)
++++
+#### If It All Goes South
+![Emergency Procedures](images/emergency.JPG)
++++
+#### If It All Goes South
+It is also important to carry **liability insurance**, through [Verifly](https://www.verifly.com) or [Skywatch](https://www.skywatch.ai/) or another carrier, to limit your exposure to financial risks.  
++++
+#### If It All Goes South
+If an incident DOES occur, you need to file a report with the FAA within 10 days if...  
+  
+@ul
+- There is serious injury or loss of consciousness to humans
+- There is damage to property of more than $500.
+- The FAA requests a report (perhaps for a close encounter with manned aircraft)
++++
+With proper planning, conservative decision making, and methodical execution, UAS surveys may be conducted safely, efficiently, and in a professional manner...  
+  
+@css[fragment](which was our goal all along!)
++++
+### Finished
 
 
 
