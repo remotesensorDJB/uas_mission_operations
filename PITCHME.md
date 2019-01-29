@@ -236,6 +236,30 @@ Fly multiple missions at staggered altitudes to ensure a consistent GSD.
   
 ![Stairstepped Flights](images/alt_dif_flights.jpg)
 ---
+#### The Day Of...
+After you have researched your study area, designed your mission plans, received your ATC authorizations, etc...there's nothing left but to...  
+  
+@css[fragment](Do the dang thing!) 
++++
+#### The Day Of...
+When the time comes to travel to the study area and acquire imagery, what should be our prime considerations?  
+  
+@ol[numbers]
+- SAFETY!
+- SAFETY!
+- Weather...particularly winds
+- Crew management
+- Equipment management
+- Process management
+@olend
++++
+#### The Day Of...
+##### Safety
+Pilots of all craft are addicted to **checklists!** Checklists are effective ways to make sure your operations are consistent, successful, and SAFE. There is a checklist for nearly everything in flying. Let's take a look at a field operations safety checklist...  
+  
+<iframe data-src="https://air-vid.com/uav-safety-checklist/"></iframe> 
++++
+
 
 
 
