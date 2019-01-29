@@ -331,11 +331,11 @@ Ground Control Points (GCPs) are points in the study area that are easily discri
 @css[fragment](Using GCPs increases **global accuracy** of our data.)
 +++
 #### Ground Control Points
-**Local Accuracy** or *relative* accuracy is the degree to which a given point on a map is accuracte relative to other points *within that same map*.  
+@css[fragment](**Local Accuracy** or *relative* accuracy is the degree to which a given point on a map is accuracte relative to other points *within that same map*.  )
   
 @css[fragment](**Global Accuracy** or *absolute* accuracy, is the degree to which a point in the dataset corresponds to a coordinate reference system in the real world.)
 
-https://blog.dronedeploy.com/accuracy-in-drone-mapping-what-you-need-to-know-10322d8512bb    
+@css[fragment](https://blog.dronedeploy.com/accuracy-in-drone-mapping-what-you-need-to-know-10322d8512bb    )
 +++
 #### Ground Control Points
 When is global accuracy important?  
