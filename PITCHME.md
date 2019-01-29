@@ -159,6 +159,7 @@ Appropriate For...
 +++
 #### Circular Flights
 ![Circular Flight](images/circular_grid.jpeg)
+
 +++
 #### Free Flight
 @ul[squares]
@@ -170,6 +171,24 @@ Appropriate For...
 #### Free Flight
 ![Free Flight](images/free_flight.png)
 +++
+#### Defining The Area of Interest
+@size[0.6em](Optimize the flight pattern by interactively adjusting the flight area polygon)  
++++
+@transition[fade-in fade-out]	  
+![Mission 1](images/mission1.jpg)
++++
+@transition[fade-in fade-out]	  
+![Mission 2](images/mission2.jpg)
++++
+@transition[fade-in fade-out]	  
+![Mission 3](images/mission3.jpg)
++++
+
+#### Mission Settings 
+@size[0.6em](For most mission types, a number of different settings can be used to tweak the flight plan to suit demands.)  
+  
+![Mission Settings](images/mission_settings_norm.png)
+
 
 #### Finished
 
