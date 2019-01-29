@@ -19,7 +19,7 @@ What is our objective?...
 @css[fragment](Capture **high quality imagery**) @css[fragment](of our **study area**,) @css[fragment](to suit the intended **application**,) @css[fragment](in a **safe, efficient, and professional** manner.)  
   
 @css[fragment](All decisions related to field operations should emanate from this simple objective!)
-+++
+---
 @title[Study Area Reconnaissance]
 #### Study Area Reconnaissance
 ##### Know B4 U Go! 
@@ -53,6 +53,7 @@ Our main tools will be exisitng maps and imagery of the area.
 ---
 @title[Mission Plan Design]
 #### Misson Plan Design
+##### Match the Application
 The *image acquisiton plan* that we design to capture imagery, will vary based on several factors...  
   
 @ul[squares]
@@ -268,7 +269,6 @@ Mother nature has a way of disrupting even the best laid plans...CHECK THE WEATH
   
 @css[fragment](But also use good common sense!)
 +++
-#### The Day Of...
 ##### Weather
 What are some common weather related challenges?  
   
@@ -278,7 +278,6 @@ What are some common weather related challenges?
   
 @css[fragment](The biggest factor by far is...)@css[fragment](WIND!)
 +++
-#### The Day Of...
 ##### Weather
 **High wind speeds** have numerous negative impacts on UAV flight...  
   
@@ -288,7 +287,6 @@ What are some common weather related challenges?
 - Challenging take offs/landings...especially in tight quarters. 
 - Increased risk of loss of equipment
 +++
-#### The Day Of...
 ##### Weather
 Many drones can fly in wind speeds ~20mph...  
   
@@ -300,7 +298,6 @@ Many drones can fly in wind speeds ~20mph...
 +++
 ![Wind](images/wind.jpg)
 +++
-#### The Day Of...
 ##### Weather
 **Know your winds before you go**
 https://www.uavforecast.com 
