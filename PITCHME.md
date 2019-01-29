@@ -9,7 +9,7 @@
 - Study Area Reconnaissance: Know B4 U Go!
 - Mission Plan Design: Match the application
 - The Day Of: Checking the boxes 
-- Aeronautical Decision Making: Cool heads prevail
+- Ground Control Points: Tying it all together
 - If It All Goes South: Accident Procedures
 ---
 @title[the big picture]
@@ -167,6 +167,7 @@ Appropriate For...
 - UAS flown by hand
 - Camera triggered by intervalometer
 - Image captured every *x* seconds or *y* change in position
+@ulend
 +++
 #### Free Flight
 ![Free Flight](images/free_flight.png)
@@ -318,8 +319,91 @@ Again, checklists will be our best tool for ensuring that we have everything nee
 +++
 ![Lists](images/lists_small.jpg) 
 ---
+#### Ground Control Points
+##### Tying it all together
+For many applications, the **local accuracy** of the **georeferencing** provided by the drone's onboard GPS, and encoded into the imagery's **EXIF** metadata should suffice.  
+  
+@css[fragment](But for applications that require precise measurements and formal accuracy standards, it may be necessary to utilize ground control points...)@css[fragment](or "GCPs".)
+  
++++
+#### Ground Control Points
+Ground Control Points (GCPs) are points in the study area that are easily discriminated in the imagery, and for which we know the precise real world coordinates (lat/long/elevation) with respect to some coordinate system and datum.  
+  
+@css[fragment](By identifying these locations during our image processing workflow, we tie our resulting data products to this spatial reference, for accurate comparison across other datasets and through time.)  
+  
+@css[fragment](Using GCPs increases **global accuracy** of our data.)
++++
+#### Ground Control Points
+**Local Accuracy** or *relative* accuracy is the degree to which a given point on a map is accuracte relative to other points *within that same map*.  
+  
+@css[fragment](**Global Accuracy** or *absolute* accuracy, is the degree to which a point in the dataset corresponds to a coordinate reference system in the real world.)
 
+https://blog.dronedeploy.com/accuracy-in-drone-mapping-what-you-need-to-know-10322d8512bb    
++++
+#### Ground Control Points
+When is global accuracy important?  
+  
+@ul[squares]
+- Comparing data with external datasets (GIS data, other imagery)
+- Comaparing data across time (for change detection from repeat imagery)
+- Engineering/SurveyConstruction applications
+- When providing formal accuracy assessments as a deliverable
+@ulend
++++
+#### Ground Control Points
+to establish GCPs in the field...
 
+@ul
+- Place high visibility **targets** throughout study area
+- Distribute evenly across the area
+- Place them near important features
+- Place near high and low areaa
+- Place 4-5 targets at minimum
+- Collect GPS coordinates at dead center of each target
+- Know the Coordinate System your GPS uses!
+@ulend
++++
+@transition[fade-in fade-out]
+#### Ground Control Points
+![GCP 1](images/gcp_1.jpeg)
++++
+@transition[fade-in fade-out]
+#### Ground Control Points
+![GCP 2](images/gcp_2.jpg)
++++
+@transition[fade-in fade-out]
+#### Ground Control Points
+![GCP 3](images/gcp_3.jpg)
++++
+@transition[fade-in fade-out]
+#### Ground Control Points
+![GCP 4](images/gcp_4.jpg)
++++
+#### Ground Control Points
+![GCP](images/gcp_field.png)
++++
+#### Ground Control Points
+![GCP Distribution](images/gcp_distribution.jpg) 
++++
+#### Ground Control Points
+What accuracy can be expected by using GCPs?  
+  
+@css[fragment](Depends on...)
+  
+@ul
+- GPS accuracy
+- GPS environment
+- Terrain 
+- Collection practices
+@ulend
++++
+#### Ground Control Points
+Relative Accuracy: Horiz. appx.. 2x the GSD, Vert. appx. 3x GSD  
+  
+Absolute Accuracy: Horiz. appx. 1m, Vert appx. 3m  
+  
+@css[fragment](With high quality control points...centimeter accuracy is acheivable.)
++++
 
 
 #### Finished
