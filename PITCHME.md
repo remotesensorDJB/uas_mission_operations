@@ -248,7 +248,6 @@ When the time comes to travel to the study area and acquire imagery, what should
 - SAFETY!
 - SAFETY!
 - Weather...particularly winds
-- Crew management
 - Equipment management
 - Process management
 @olend
@@ -306,6 +305,18 @@ Many drones can fly in wind speeds ~20mph...
 https://www.uavforecast.com 
 
 <iframe class="stretch" data-src="https://www.uavforecast.com"></iframe>
++++
+#### The Day Of...
+##### Equipment/Process Management
+Again, checklists will be our best tool for ensuring that we have everything needed for a successful operation.  
+  
+@css[fragment](Before you go...)@css[fragment](Equipment Checklist)  
+  
+@css[fragment](Before you fly...)@css[fragment](Pre flight and Take-Off Checklists)
+  
+@css[fragment](After landing...)@csss[fragment](Post flight Checklist)
++++
+[Lists](images/lists_small.jpg)
 ---
 
 
