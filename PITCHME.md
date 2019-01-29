@@ -181,7 +181,7 @@ Appropriate For...
 ![Mission 2](images/mission2.jpg)
 +++
 @transition[fade-in fade-out]	  
-![Mission 3](images/mission3.jpg)
+![Mission 4](images/mission4.jpg)
 +++
 
 #### Mission Settings 
