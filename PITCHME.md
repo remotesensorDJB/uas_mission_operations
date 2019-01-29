@@ -173,8 +173,7 @@ Appropriate For...
 +++
 #### Defining The Area of Interest
 @size[0.6em](Optimize the flight pattern by interactively adjusting the flight area polygon)  
-+++
-@transition[fade-in fade-out]	  
++++ 
 ![Mission 1](images/mission1.jpg)
 +++
 @transition[fade-in fade-out]	  
@@ -183,11 +182,61 @@ Appropriate For...
 @transition[fade-in fade-out]	  
 ![Mission 4](images/mission4.jpg)
 +++
-
 #### Mission Settings 
 @size[0.6em](For most mission types, a number of different settings can be used to tweak the flight plan to suit demands.)  
   
 ![Mission Settings](images/mission_settings_norm.png)
++++
+![Mission 4](images/mission4.jpg)  
+
++++
+@transition[fade-in fade-out] 
+![Mission 5](images/mission5.jpg)
+@css[fragment](Flight height controls GSD)  
++++
+@transition[fade-in fade-out] 
+![Mission 6](images/mission6.jpg)
+  
++++
+@transition[fade-in fade-out] 
+![Mission 7](images/mission7.jpg)
+@css[fragment](Increase overlap for 3D applications) 
++++
+@transition[fade-in fade-out] 
+![Mission 8](images/mission8.jpg)
+@css[fragment](Or reduce for shorter flight times)  
++++
+@transition[fade-in fade-out] 
+![Mission 9](images/mission9.jpg)
+@css[fragment](Vary the flight speed for light conditions. Slower speeds in lower light reduce blurry images.)
++++
+#### High Relief Areas
+SfM processing algorithms expect GSD to be consistent across a project.  
+  
+@css[fragment](In high relief/rugged topography, the difference in GSD from the high point to the low can exceed the software's tolerance.)  
+  
+@css[fragment](Mission plans should account for this in one of three ways)
++++
+**Fly higher**
+If the flight height at the high end is more than twice that at the low end, flying from a higher altitude can reduce this ratio. 
+
+@css[fragment](Example: Flight at 100ft AGL at the higher end, 200ft AGL at the lower end...2x ratio)  
+  
+@css[fragment](Fly 100ft higher: Flight at high end now 200ft AGL, 300ft AGL at low end...1.5x ratio) 
++++
+![Fly Higher](images/alt_same_altitude.jpg)
++++
+**Terrain Following**
+Use a software that accounts for terrain variation by using digital elevation (DEM) data. Flight altitude changes according to terrain.  
+  
+![Terrain Following](images/alt_dif_alt.jpg)
++++
+**Stairstepped Flights**
+Fly multiple missions at staggered altitudes to ensure a consistent GSD.  
+  
+![Stairstepped Flights](images/alt_dif_flights.jpg)
+---
+
 
 
 #### Finished
